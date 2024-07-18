@@ -1,6 +1,6 @@
 ## ffmpeg installation
 
-YOU MUST install the ffmpeg in this dir.
+YOU MUST install the ffmpeg in this dir.<br>
 You just need past here the `ffmpeg.exe`, `ffprobe.exe`, `ffplay.exe`
 
 ## configure by yourself
