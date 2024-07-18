@@ -1,0 +1,9 @@
+{
+  "ffmpeg": {
+    "path": "$root$/ffmpeg",
+    "names": {
+      "ffmpeg": "ffmpeg.exe",
+      "ffprob": "ffprob.exe"
+    }
+  }
+}
